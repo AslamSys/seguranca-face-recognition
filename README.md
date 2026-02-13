@@ -1,5 +1,19 @@
 # 👤 Face Recognition
 
+## 🔗 Navegação
+
+**[🏠 AslamSys](https://github.com/AslamSys)** → **[📚 _system](https://github.com/AslamSys/_system)** → **[📂 Segurança (Jetson Orin Nano)](https://github.com/AslamSys/_system/blob/main/hardware/seguranca/README.md)** → **seguranca-face-recognition**
+
+### Containers Relacionados (seguranca)
+- [seguranca-brain](https://github.com/AslamSys/seguranca-brain)
+- [seguranca-camera-stream-manager](https://github.com/AslamSys/seguranca-camera-stream-manager)
+- [seguranca-yolo-detector](https://github.com/AslamSys/seguranca-yolo-detector)
+- [seguranca-event-analyzer](https://github.com/AslamSys/seguranca-event-analyzer)
+- [seguranca-alert-manager](https://github.com/AslamSys/seguranca-alert-manager)
+- [seguranca-video-recorder](https://github.com/AslamSys/seguranca-video-recorder)
+
+---
+
 **Container:** `face-recognition`  
 **Ecossistema:** Segurança  
 **Hardware:** Jetson Orin Nano  
